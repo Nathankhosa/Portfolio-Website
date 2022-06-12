@@ -1,4 +1,4 @@
-﻿/* display background color black on navbar scroll */
+/* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: black;
 }
@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height: 100vh;
-    background: url('image/siloow_grim_20200626_141935_0-01 (2)');
+    background: url('image/siloow_grim_20200626_141935_0-01\ \(2\).jpeg');
     background-size: cover;
     position: relative;
 }
